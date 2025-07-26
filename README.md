@@ -2,7 +2,7 @@
 
 #  Robot Navigation with Pygame
 
-This project simulates a robot navigating a 2D environment to reach randomly placed targets using angular heuristics. It uses `Pygame` for rendering, and the logic simulates a simple agent-based system where the robot selects actions based on its relative orientation to the target.
+This project that simulates a robot navigating a 2D environment to reach randomly placed targets using angular calculations. It uses `Pygame` for rendering, and the logic simulates a simple agent-based system where the robot selects actions based on its relative orientation to the target.
 
 ---
 
