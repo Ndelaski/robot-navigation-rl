@@ -103,6 +103,9 @@ jupyter notebook notebooks/robot_navigation_simulation.ipynb
 ---
 
 ## Requirements
+pygame>=2.1
+numpy>=1.24
+jupyter>=1.0
 ---
 
 ## Planned extensions
